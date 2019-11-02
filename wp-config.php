@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'mi-sitio-dark' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '6cfc7890cc1966b099b2d20416ae2827a174cd42fbe441be' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
